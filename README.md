@@ -1,12 +1,7 @@
-# Serenity JUnit Starter project
+# Serenity JUnit Lively
 
-Get started quickly with Serenity BDD and JUnit 5 with this simple starter project. 
+lively wellbeing app
 
-## Get the code
-
-Click on the [Use This Template button](https://github.com/serenity-bdd/serenity-junit-starter/generate) to create a new project in your own Github account. 
-
-Or simply [download a zip](https://github.com/serenity-bdd/serenity-junit-starter/archive/master.zip) file.
 
 ## Running the tests under Maven
 
